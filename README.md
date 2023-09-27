@@ -5,7 +5,7 @@
 ## Hobbies and interests
 ⌨️ I am interested in developing some backend/ML things, sometimes doing something related to frontend and design, Also interested in VR, AI stuff.
 ## Socials
-![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Ftrynottokillme)
+![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Fimmersed_in_reality)
 <br> 
 Gmail: sasha.kirillov.minsk@gmail.com
 ## Some projects
