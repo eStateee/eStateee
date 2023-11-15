@@ -3,7 +3,7 @@
 <br>
 👋 Hey, thank you for visiting my GitHub profile. My name is **Alex**, I am from Belarus Minsk, 18 y.o.
 ## Hobbies and interests
-⌨️ I am interested in developing some backend/ML things, sometimes doing something related to frontend and design, Also interested in VR, AI stuff.
+⌨️ I am a junior Python developer from Minsk, Belarus. Mostly interested in developing some backend things and in automation work, sometimes have to do something related to frontend, design and DevOps tasks, also interested in ML and data-science.
 ## Socials
 ![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Fimmersed_in_reality)
 <br> 
