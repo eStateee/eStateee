@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Immersed+in+reality)](https://git.io/typing-svg)
 <br>
 👋 Hey, thank you for visiting my GitHub profile. My name is **Alex**, I am from Belarus Minsk, 18 y.o.
-## Hobbies and interests
+## About me
 ⌨️ I am a junior Python developer from Minsk, Belarus. Mostly interested in developing some backend things and in automation work, sometimes have to do something related to frontend, design and DevOps tasks, also interested in ML and data-science.
 ## Socials
 ![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Fimmersed_in_reality)
