@@ -7,7 +7,7 @@
 ## Socials
 ![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Fimmersed_in_reality)
 <br> 
-Gmail: sasha.kirillov.minsk@gmail.com
+Gmail: alexcontact793@gmail.com
 ## Some projects
 * [**Megano**](https://github.com/eStateee/Megano) - e-shop with all neccessary functions [Django, postgres, docker-compose]
 * [**Twitter-corp**](https://github.com/eStateee/twitter-clone) - Corp. social network based on FastApi + SQLAlchemy [postgres, docker-compose, pytest, alembic]
