@@ -12,7 +12,6 @@ Gmail: alexcontact793@gmail.com
 * [**Megano**](https://github.com/eStateee/Megano) - e-shop with all neccessary functions [Django, postgres, docker-compose]
 * [**Twitter-corp**](https://github.com/eStateee/twitter-clone) - Corp. social network based on FastApi + SQLAlchemy [postgres, docker-compose, pytest, alembic]
 * [**SitDownPls**](https://github.com/eStateee/SitDownPls) - Landing for e-shop with gulp deploy [HTML, SCSS, JS, PHP]
-* [**PdfEditor**](https://github.com/eStateee/PdfEditor) - GUI python app to automate work with pdf [Python3.10, Loguru, Poetry]
 
 ## Skills
 ### Enjoyable only ^-^
