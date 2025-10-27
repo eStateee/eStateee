@@ -15,7 +15,7 @@ Gmail: alexcontact793@gmail.com
 * [**Notificator**](https://github.com/eStateee/Notificator) - Notification Telegram Bot [python, aiogram, sqlalchemy]    
 
 ## Skills
-### Enjoyable only ^-^
+### Main
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,14 +24,13 @@ Gmail: alexcontact793@gmail.com
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### If needed
 ![Celery](https://camo.githubusercontent.com/f1a9b942e1654f025e0c5df85f73f33eddebfd6fbce3d1cdbb42d2221152b78f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43454c4552592d3141343733303f7374796c653d666f722d7468652d6261646765266c6f676f3d63656c657279)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FastApi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
-### Tried/Studied
+### Studied
 ![Angular](https://img.shields.io/badge/Angular-green?style=for-the-badge&logo=angular)
 ![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
