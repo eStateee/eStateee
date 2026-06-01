@@ -1,7 +1,5 @@
 # eStateee
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Immersed+in+reality)](https://git.io/typing-svg)
-<br>
-👋 Hey, thank you for visiting my GitHub profile. My name is **Alex**, I am from Belarus Minsk, 18 y.o.
 ## About me
 ⌨️ I am Python developer. Mostly interested in developing some backend things and in automation work, sometimes have to do something related to frontend, design and DevOps tasks, also interested in ML and data-science.
 ## Socials
